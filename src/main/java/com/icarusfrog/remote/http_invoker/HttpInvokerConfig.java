@@ -1,4 +1,4 @@
-package com.icarusfrog.remote.httpInvokerStuff;
+package com.icarusfrog.remote.http_invoker;
 
 import com.icarusfrog.remote.remoting.AccountService;
 import com.icarusfrog.remote.remoting.AccountServiceImpl;
